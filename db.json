@@ -2,7 +2,7 @@
   "users": [
     {
       "id": "1",
-      "name": "User1",
+      "name": "Артем",
       "weights": [],
       "sport": {
         "benchPress": 0,
@@ -12,7 +12,7 @@
     },
     {
       "id": "2",
-      "name": "User2",
+      "name": "Дмитрий",
       "weights": [],
       "sport": {
         "benchPress": 0,
@@ -22,7 +22,7 @@
     },
     {
       "id": "3",
-      "name": "User3",
+      "name": "Сергей",
       "weights": [],
       "sport": {
         "benchPress": 0,
@@ -32,7 +32,7 @@
     },
     {
       "id": "4",
-      "name": "User4",
+      "name": "URANUSDESTROYER",
       "weights": [],
       "sport": {
         "benchPress": 0,
