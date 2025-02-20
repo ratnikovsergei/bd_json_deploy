@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "User1",
+      "weights": [],
+      "sport": {
+        "benchPress": 0,
+        "deadlift": 0,
+        "pullUps": 0
+      }
+    },
+    {
+      "id": "2",
+      "name": "User2",
+      "weights": [],
+      "sport": {
+        "benchPress": 0,
+        "deadlift": 0,
+        "pullUps": 0
+      }
+    },
+    {
+      "id": "3",
+      "name": "User3",
+      "weights": [],
+      "sport": {
+        "benchPress": 0,
+        "deadlift": 0,
+        "pullUps": 0
+      }
+    },
+    {
+      "id": "4",
+      "name": "User4",
+      "weights": [],
+      "sport": {
+        "benchPress": 0,
+        "deadlift": 0,
+        "pullUps": 0
+      }
+    }
+  ]
+}
